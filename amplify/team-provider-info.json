@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-splitbuddys-dev-ae167-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382454543:role/amplify-splitbuddys-dev-ae167-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382454543:role/amplify-splitbuddys-dev-ae167-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-splitbuddys-dev-ae167-deployment",
+      "UnauthRoleName": "amplify-splitbuddys-dev-ae167-unauthRole",
+      "StackName": "amplify-splitbuddys-dev-ae167",
+      "StackId": "arn:aws:cloudformation:eu-north-1:992382454543:stack/amplify-splitbuddys-dev-ae167/370e6200-0e40-11ef-963f-0e24c393a4ff",
+      "AmplifyAppId": "d32y81cm7pfall"
+    },
+    "categories": {
+      "auth": {
+        "splitbuddys81144edb": {}
+      }
+    }
+  }
+}
